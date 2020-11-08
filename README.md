@@ -1,2 +1,4 @@
 # hello-world
-just a test
+
+Hello world by reto as an exercise...
+
